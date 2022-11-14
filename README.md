@@ -1,1 +1,1 @@
-# jansen-rit
+# Jansen-Rit model
